@@ -1,0 +1,34 @@
+@mixin prime-nav-active {
+  content: "";
+  position: absolute;
+  display: block;
+  bottom: -2rem;
+  background-color: #b1040e;
+  width: calc(100% - 24px);
+  height: 6px;
+  visibility: visible;
+  transform: scaleY(1);
+  transition: all .3s ease-out;
+}
+@mixin prime-nav{
+  content: "";
+  position: absolute;
+  display: block;
+  bottom: -2rem;
+  width: calc(100% - 24px);
+  height: 6px;
+  visibility: hidden;
+  transform: scaleX(0);
+}
+@mixin sec-nav-active {
+  content: "";
+  position: absolute;
+  display: block;
+  left: 0;
+  background-color: #ffffff;
+  width: 6px;
+  height: 100%;
+  //visibility: visible;
+  //transform: scaleY(1);
+  //transition: all .3s ease-out;
+}
