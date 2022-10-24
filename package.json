@@ -1,9 +1,9 @@
 {
-  "name": "decanter",
-  "description": "Pattern Library and CSS Framework.",
+  "name": "backdrop_decanter",
+  "description": "Backdrop theme using Decanter",
   "author": "",
-  "version": "6.2.7",
-  "homepage": "https://github.com/SU-SWS/decanter",
+  "version": "1.0.0",
+  "homepage": "https://github.com/borisay/backdrop_decanter",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode=development",
@@ -24,10 +24,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SU-SWS/decanter.git"
+    "url": "git+https://github.com/borisay/backdrop_decanter.git"
   },
   "bugs": {
-    "url": "https://github.com/SU-SWS/decanter/issues"
+    "url": "https://github.com/borisay/backdrop_decanter/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
