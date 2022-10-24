@@ -1,8 +1,8 @@
 {
-  "name": "su-sws/decanter",
-  "description": "Stanford Pattern Library and SCSS Framework",
+  "name": "borisay/backdrop_decanter",
+  "description": "Backdrop theme using Decanter",
   "type": "library",
-  "homepage": "https://github.com/SU-SWS/decanter",
+  "homepage": "https://github.com/borisay/backdrop_decanter",
   "authors": [],
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
