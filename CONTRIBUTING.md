@@ -1,4 +1,4 @@
-# Contributing to Decanter
+# Contributing to Backdrop Decanter
 
 This project is meant to be open source and freely shared. If you find something
 broken, confusing, or wrong please first check the issue queue. For new issues
@@ -84,11 +84,11 @@ project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/<your-username>/decanter
+   git clone https://github.com/<your-username>/backdrop_decanter
    # Navigate to the newly cloned directory
-   cd decanter
+   cd backdrop_decanter
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/SU-SWS/decanter
+   git remote add upstream https://github.com/borisay/backdrop_decanter
    ```
 2. If you cloned a while ago, get the latest changes from upstream:
 
